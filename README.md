@@ -1,4 +1,5 @@
-LPR-Yolov8 model_backup by kushagra
+LPR-Yolov8 model_backup -
 
-The trained modela weights are available in the following drive link - https://drive.google.com/file/d/1OE09SopcxAPqIKvwNEUPTtejb7OqYEuQ/view?usp=sharing
-do rename it as following for further usage -"saved model/saved_model.pt"
+The trained model weights are available through the following drive link - https://drive.google.com/file/d/1OE09SopcxAPqIKvwNEUPTtejb7OqYEuQ/view?usp=sharing
+
+Do rename it as following for further usage -"saved model/saved_model.pt"
